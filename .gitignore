@@ -68,3 +68,6 @@ tools/trainerproc/trainerproc
 *.smol
 *.fastSmol
 *.smolTM
+/.vs/pokefirered-expansion/FileContentIndex
+/.vs/pokefirered-expansion/v17
+/.vs
