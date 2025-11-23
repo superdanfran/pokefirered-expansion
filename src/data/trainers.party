@@ -1215,19 +1215,25 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Rattata
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Zubat @ Oran Berry
+Level: 18
+Ability: Inner Focus
+Hasty Nature
+- Mean Look
+- Toxic
+- Gust
+- Quick Guard
 
-Rattata
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Zubat
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Rattata @ Muscle Band
+Level: 18
+Ability: Guts
+Adamant Nature
+- Take Down
+- Laser Focus
+- Quick Attack
+- Tail Whip
 
 === TRAINER_YOUNGSTER_TIMMY ===
 Name: TIMMY
@@ -1550,15 +1556,25 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Weedle
-Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Beedrill @ Oran Berry
+Level: 16
+Ability: Levitate
+Hasty Nature
+- Rock Smash
+- Poison Sting
+- Pin Missile
+- Toxic
 
-Kakuna
-Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Kakuna @ Black Sludge
+Level: 18
+Ability: Shed Skin
+Bold Nature
+- Poison Sting
+- Iron Defense
+- Electroweb
+- String Shot
 
 === TRAINER_BUG_CATCHER_ROBBY ===
 Name: ROBBY
@@ -1567,19 +1583,34 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Caterpie
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Butterfree @ Bright Powder
+Level: 16
+Ability: Compound Eyes
+Modest Nature
+- Psybeam
+- Supersonic
+- Stun Spore
+- Absorb
 
-Metapod
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Paras @ Oran Berry
+Level: 16
+Ability: Water Absorb
+Bold Nature
+- Stun Spore
+- Fury Cutter
+- Absorb
+- Growth
 
-Caterpie
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Venonat @ Oran Berry
+Level: 18
+Ability: Tinted Lens
+Adamant Nature
+- Struggle Bug
+- Acid Spray
+- Stun Spore
+- Confuse Ray
 
 === TRAINER_BUG_CATCHER_CALE ===
 Name: CALE
@@ -1799,15 +1830,25 @@ Pic: Lass
 Gender: Male
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Oddish
-Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Oddish @ Oran Berry
+Level: 18 
+Ability: Run Away
+Jolly Nature
+- Acid
+- Giga Drain
+- Stun Spore
+- Charm
 
-Bellsprout
-Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Bellsprout @ Starf Berry
+Level: 18
+Ability: Gluttony
+Modest Nature
+- Knock Off
+- Trailblaze
+- Stun Spore
+- Infestation
 
 === TRAINER_LASS_IRIS ===
 Name: IRIS
@@ -1815,12 +1856,26 @@ Class: Lass
 Pic: Lass
 Gender: Male
 Music: Female
-Double Battle: No
-AI: Check Bad Move
+Double Battle: Yes
+AI: Basic Trainer
 
-Clefairy
-Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Clefairy @ Berry Juice
+Level: 18
+Ability: Friend Guard
+Quiet Nature
+- Sweet Kiss
+- Metronome
+- Disarming Voice
+- Gravity
+
+Cleffa @ Eviolite
+Level: 16
+Ability: Friend Guard
+Quirky Nature
+- Sweet Kiss
+- Sing
+- Metronome
+- Disarming Voice
 
 === TRAINER_LASS_RELI ===
 Name: RELI
@@ -2691,15 +2746,25 @@ Pic: Super Nerd
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Magnemite
-Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Yamper @ Oran Berry
+Level: 16
+Ability: Ball Fetch
+Hasty Nature
+- Bite
+- Spark
+- Charm
+- Thunder Wave
 
-Voltorb
-Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Voltorb-Hisui @ Salac Berry
+Level: 15
+Ability: Aftermath
+Naive Nature
+- Charge Beam
+- Bullet Seed
+- Stun Spore
+- Swift
 
 === TRAINER_SUPER_NERD_MIGUEL ===
 Name: MIGUEL
@@ -2708,19 +2773,34 @@ Pic: Super Nerd
 Gender: Male
 Music: Suspicious
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Grimer
-Level: 12
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Koffing @ Oran Berry
+Level: 18
+Ability: Neutralizing Gas
+Bold Nature
+- Poison Gas
+- Self-Destruct
+- Acid Spray
+- Assurance
 
-Voltorb
-Level: 12
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Sneasel-Hisui @ Assault Vest
+Level: 18
+Ability: Inner Focus
+Adamant Nature
+- Rock Smash
+- Quick Attack
+- Poison Jab
+- Metal Claw
 
-Koffing
-Level: 12
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Magnemite @ Oran Berry
+Level: 18
+Ability: Levitate
+Modest Nature
+- Spark
+- Thunder Wave
+- Supersonic
+- Electroweb
 
 === TRAINER_SUPER_NERD_AIDAN ===
 Name: AIDAN
@@ -2947,19 +3027,34 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Geodude
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Drilbur @ Oran Berry
+Level: 18
+Ability: Mold Breaker
+Jolly Nature
+- Metal Claw
+- Hone Claws
+- Mud Slap
+- Rapid Spin
 
-Geodude
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Meowth-Galar @ Salac Berry
+Level: 18
+Ability: Tough Claws
+Adamant Nature
+- Metal Claw
+- Hone Claws
+- Fake Out
+- Swagger
 
-Onix
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Onix @ Starf Berry
+Level: 18
+Ability: Sturdy
+Naive Nature
+- Rock Throw
+- Screech
+- Dig
+- Harden
 
 === TRAINER_HIKER_FRANKLIN ===
 Name: FRANKLIN
@@ -6530,76 +6625,157 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Earthquake
 
 === TRAINER_TEAM_ROCKET_GRUNT ===
-Name: GRUNT
+Name: ARIANA
 Class: Team Rocket
-Pic: Rocket Grunt M
-Gender: Male
+Pic: Rocket Grunt F
+Gender: Female
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: Smart Trainer
 
-Rattata
-Level: 13
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Gloom @ Loaded Dice
+Level: 20
+Ability: Stench
+Mild Nature
+- Mega Drain
+- Bullet Seed
+- Toxic
+- Acid
 
-Zubat
-Level: 13
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Grimer-Alola @ Mirror Herb
+Level: 20
+Ability: Power of Alchemy
+Adamant Nature
+- Poison Fang
+- Poison Gas
+- Minimize
+- Mud Slap
+
+Ekans @ Grip Claw
+Level: 20
+Ability: Intimidate
+Adamant Nature
+- Toxic
+- Wrap
+- Acid
+- Mud Slap
+
+Murkrow @ Eviolite
+Level: 21
+Ability: Prankster
+Quiet Nature
+- Mean Look
+- Hex
+- Toxic
+- Night Shade
 
 === TRAINER_TEAM_ROCKET_GRUNT_2 ===
-Name: GRUNT
+Name: BUTCH
 Class: Team Rocket
 Pic: Rocket Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Sandshrew
-Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Snubbull @ Berry Juice
+Level: 20
+Ability: Intimidate
+Adamant Nature
+- Headbutt
+- Charm
+- Lick
+- Roar
 
-Rattata
-Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Impidimp @ Black Glasses
+Level: 20
+Ability: Prankster
+Modest Nature
+- Fake Tears
+- Assurance
+- Sucker Punch
+- Draining Kiss
 
-Zubat
-Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Slowpoke-Galar @ Berserk Gene
+Level: 20
+Ability: Own Tempo
+Adamant Nature
+- Yawn
+- Acid
+- Confusion
+- Tackle
 
 === TRAINER_TEAM_ROCKET_GRUNT_3 ===
-Name: GRUNT
+Name: SAL
 Class: Team Rocket
-Pic: Rocket Grunt M
-Gender: Male
+Pic: Rocket Grunt F
+Gender: Female
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Zubat
-Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ekans @ Salac Berry
+Level: 20
+Ability: Intimidate
+Adamant Nature
+- Acid
+- Screech
+- Glare
+- Belch
 
-Ekans
-Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Nidorino @ Black Sludge
+Level: 20
+Ability: Moxie
+Adamant Nature
+- Double Kick
+- Focus Energy
+- Horn Attack
+- Venoshock
+
+Doduo @ Berserk Gene
+Level: 20
+Ability: Tangled Feet
+Jolly Nature
+- Pluck
+- Quick Attack
+- Double Hit
+- Mud Slap
 
 === TRAINER_TEAM_ROCKET_GRUNT_4 ===
-Name: GRUNT
+Name: OZ
 Class: Team Rocket
 Pic: Rocket Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Rattata
-Level: 13
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Meowth-Alola @ Wise Glasses
+Level: 20
+Ability: Technician
+Mild Nature
+- Fake Out
+- Knock Off
+- Swagger
+- Chilling Water
 
-Sandshrew
-Level: 13
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Zubat @ Berry Juice
+Level: 20
+Ability: Infiltrator
+Jolly Nature
+- Confuse Ray
+- Air Cutter
+- Poison Fang
+- Assurance
+
+Geodude-Alola @ Focus Sash
+Level: 20
+Ability: Galvanize
+Modest Nature
+- Tackle
+- Scary Face
+- Mud Slap
+- Self-Destruct
 
 === TRAINER_TEAM_ROCKET_GRUNT_5 ===
 Name: GRUNT
