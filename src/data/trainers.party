@@ -1161,15 +1161,25 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Rattata
-Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Meowth-Galar @ Oran Berry
+Level: 14
+Ability: Tough Claws
+Adamant Nature
+- Metal Claw
+- Pay Day
+- Fake Out
+- Hone Claws
 
-Ekans
-Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Rattata-Alola @ Oran Berry
+Level: 14
+Ability: Thick Fat
+Naive Nature
+- Quick Attack
+- Bite
+- Laser Focus
+- Endeavor
 
 === TRAINER_YOUNGSTER_CALVIN ===
 Name: CALVIN
@@ -1178,11 +1188,25 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Spearow
+Taillow @ Oran Berry
+Level: 13
+Ability: Guts
+Adamant Nature
+- Wing Attack
+- Quick Attack
+- Work Up
+- Focus Energy
+
+Nidoran-M @ Oran Berry
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Poison Point
+Jolly Nature
+- Peck
+- Poison Sting
+- Focus Energy
+- Fury Attack
 
 === TRAINER_YOUNGSTER_JOSH ===
 Name: JOSH
@@ -1376,13 +1400,23 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Weedle
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Beedrill
+Ability: Levitate
+Jolly Nature
+Level: 10
+- Pin Missile
+- Fury Attack
+- String Shot
+- Poison Sting
 
-Caterpie
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Butterfree
+Ability: Compound Eyes
+Modest Nature
+Level: 10
+- Gust
+- Stun Spore
+- Poison Powder
+- Sleep Powder
 
 === TRAINER_BUG_CATCHER_DOUG ===
 Name: DOUG
@@ -1393,17 +1427,23 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Weedle
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Volbeat
+Level: 10
+Ability: Prankster
+Adamant Nature
+- Struggle Bug
+- Confuse Ray
+- Mud Slap
+- Aerial Ace
 
-Kakuna
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Weedle
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Illumise
+Level: 10
+Ability: Tinted Lens
+Modest Nature
+- Zen Headbutt
+- Charm
+- Thief
+- Disarming Voice
 
 === TRAINER_BUG_CATCHER_SAMMY ===
 Name: SAMMY
@@ -1414,9 +1454,13 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Weedle
-Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Scyther @ Iron Ball
+Level: 8
+Ability: Swarm
+Brave Nature
+- Fury Cutter
+- False Swipe
+- Endure
 
 === TRAINER_BUG_CATCHER_COLTON ===
 Name: COLTON
@@ -1425,19 +1469,25 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Caterpie
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Beedrill @ Poison Barb
+Level: 14
+Ability: Levitate
+Jolly Nature
+- Rock Smash
+- Poison Sting
+- Laser Focus
+- Pin Missile
 
-Weedle
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Caterpie
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Paras @ Focus Sash
+Level: 15
+Ability: Effect Spore
+Bold Nature
+- Spore
+- Bug Bite
+- Absorb
+- Growth
 
 === TRAINER_BUG_CATCHER_GREG ===
 Name: GREG
@@ -1446,23 +1496,25 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Weedle
-Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Butterfree @ Wide Lens
+Level: 14
+Ability: Tinted Lens
+Mild Nature
+- Confusion
+- Sleep Powder
+- Draining Kiss
+- Electroweb
 
-Kakuna
-Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Caterpie
-Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Metapod
-Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Vivillon @ Silver Powder
+Level: 14
+Ability: Compound Eyes
+Modest Nature
+- Draining Kiss
+- Struggle Bug
+- Psybeam
+- Gust
 
 === TRAINER_BUG_CATCHER_JAMES ===
 Name: JAMES
@@ -1471,15 +1523,25 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Caterpie
-Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Cutiefly @ Oran Berry
+Level: 14
+Ability: Shield Dust
+Bold Nature
+- Fairy Wind
+- Stun Spore
+- Absorb
+- Fake Tears
 
-Metapod
-Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Sizzlipede @ Oran Berry
+Level: 14
+Ability: Flash Fire
+Jolly Nature
+- Bug Bite
+- Ember
+- Wrap
+- Smokescreen
 
 === TRAINER_BUG_CATCHER_KENT ===
 Name: KENT
@@ -1644,15 +1706,25 @@ Pic: Lass
 Gender: Male
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Pidgey
-Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Pidgey @ Silk Scarf
+Level: 14
+Ability: Big Pecks
+Naive Nature
+- Aerial Ace
+- Quick Attack
+- Whirlwind
+- Work Up
 
-Pidgey
-Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Eevee @ Oran Berry
+Level: 14
+Ability: Adaptability
+Adamant Nature
+- Quick Attack
+- Trailblaze
+- Double Kick
+- Yawn
 
 === TRAINER_LASS_SALLY ===
 Name: SALLY
@@ -1661,15 +1733,25 @@ Pic: Lass
 Gender: Male
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Rattata
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Nidoran-F @ Oran Berry
+Level: 14
+Ability: Poison Point
+Adamant Nature
+- Poison Sting
+- Double Kick
+- Tail Whip
+- Scratch
 
-Nidoran F
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Rattata @ Focus Band
+Level: 14
+Ability: Strong Gnaw
+Modest Nature
+- Bite
+- Laser Focus
+- Quick Attack
+- Tail Whip
 
 === TRAINER_LASS_ROBIN ===
 Name: ROBIN
@@ -1678,11 +1760,16 @@ Pic: Lass
 Gender: Male
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Jigglypuff
-Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Jigglypuff @ Berry Juice
+Level: 16
+Ability: Competitive
+Hardy Nature
+- Sweet Kiss
+- Disarming Voice
+- Charm
+- Pound
 
 === TRAINER_LASS_CRISSY ===
 Name: CRISSY
@@ -2108,18 +2195,32 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Geodude
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Tackle
+Sandshrew @ Metronome
+Level: 12
+Ability: Sturdy
+Adamant Nature
+- Bulldoze
 - Defense Curl
+- Rollout
+- Fury Cutter
 
-Sandshrew
+Larvitar @ Eviolite
 Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Scratch
-- Defense Curl
-- Sand Attack
+Ability: Guts
+Brave Nature
+- Rock Throw
+- Sand Tomb
+- Bite
+- Sandstorm
+
+Nosepass @ Chesto Berry
+Level: 13
+Ability: Sand Force
+Adamant Nature
+- Thunder Wave
+- Rock Throw
+- Spark
+- Rest
 
 === TRAINER_CAMPER_SHANE ===
 Name: SHANE
@@ -8397,20 +8498,52 @@ Pic: Leader Brock
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
+AI: Smart Trainer
 
-Geodude
-Level: 12
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Tackle
-- Defense Curl
-
-Onix
-Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Tackle
-- Bind
+Omanyte
+Level: 13
+Ability: Shell Armor
+Mild Nature
+- Water Gun
+- Icy Wind
 - Rock Tomb
+- Withdraw
+
+Geodude-Alola @ Magnet
+Level: 14
+Ability: Galvanize
+Modest Nature
+- Tackle
+- Rock Throw
+- Charge
+- Fire Punch
+
+Growlithe-Hisui @ Focus Sash
+Level: 14
+Ability: Rock Head
+Naive Nature
+- Fire Fang
+- Bite
+- Dig
+- Rock Tomb
+
+Dwebble @ Muscle Band
+Level: 14
+Ability: Shell Armor
+Adamant Nature
+- Bug Bite
+- Smack Down
+- Sand Tomb
+- Stealth Rock
+
+Onix @ Berry Juice
+Ability: Weak Armor
+Level: 15
+Jolly Nature
+- Breaking Swipe
+- Rock Throw
+- Screech
+- Sand Tomb
 
 === TRAINER_LEADER_MISTY ===
 Name: MISTY
@@ -10860,13 +10993,21 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Caterpie
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Pineco
+Level: 10
+Ability: Sturdy
+Bold Nature
+- Rapid Spin
+- Bug Bite
+- Swift
 
-Caterpie
-Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Kricketune
+Level: 10
+Ability: Technician
+Jolly Nature
+- Fell Stinger
+- Sing
+- Absorb
 
 === TRAINER_BUG_CATCHER_CHARLIE ===
 Name: CHARLIE
@@ -10877,17 +11018,23 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Metapod
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Nymble
+Level: 12
+Ability: Tinted Lens
+Naughty Nature
+- Double Kick
+- Struggle Bug
+- Astonish
+- Trailblaze
 
-Caterpie
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Metapod
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Tarountula
+Level: 12
+Ability: Stakeout
+Adamant Nature
+- Struggle Bug
+- Counter
+- Tackle
+- String Shot
 
 === TRAINER_TWINS_ELI_ANNE_2 ===
 Name: ELI & ANNE
