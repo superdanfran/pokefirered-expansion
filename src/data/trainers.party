@@ -1164,7 +1164,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Meowth-Galar @ Oran Berry
-Level: 14
+Level: 12
 Ability: Tough Claws
 Adamant Nature
 - Metal Claw
@@ -1173,7 +1173,7 @@ Adamant Nature
 - Hone Claws
 
 Rattata-Alola @ Oran Berry
-Level: 14
+Level: 12
 Ability: Thick Fat
 Naive Nature
 - Quick Attack
@@ -1191,7 +1191,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Taillow @ Oran Berry
-Level: 13
+Level: 11
 Ability: Guts
 Adamant Nature
 - Wing Attack
@@ -1200,7 +1200,7 @@ Adamant Nature
 - Focus Energy
 
 Nidoran-M @ Oran Berry
-Level: 14
+Level: 12
 Ability: Poison Point
 Jolly Nature
 - Peck
@@ -1218,7 +1218,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Zubat @ Oran Berry
-Level: 18
+Level: 16
 Ability: Inner Focus
 Hasty Nature
 - Mean Look
@@ -1227,7 +1227,7 @@ Hasty Nature
 - Quick Guard
 
 Rattata @ Muscle Band
-Level: 18
+Level: 16
 Ability: Guts
 Adamant Nature
 - Take Down
@@ -1244,13 +1244,23 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Sandshrew
-Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Sandshrew @ Covert Cloak
+Level: 20
+Ability: Sturdy
+Adamant Nature
+- Rollout
+- Counter
+- Hone Claws
+- Mud Slap
 
-Ekans
-Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ekans @ Lum Berry
+Level: 20
+Ability: Intimidate
+Adamant Nature
+- Acid
+- Glare
+- Screech
+- Leech Life
 
 === TRAINER_YOUNGSTER_JOEY ===
 Name: JOEY
@@ -1259,15 +1269,25 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Rattata
-Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Rattata @ Flame Orb
+Level: 20
+Ability: Guts
+Adamant Nature
+- Quick Attack
+- Laser Focus
+- Tackle
+- Tail Whip
 
-Spearow
-Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Taillow @ Toxic Orb
+Level: 20
+Ability: Guts
+Naughty Nature
+- Peck
+- Quick Attack
+- Growl
+- Double Team
 
 === TRAINER_YOUNGSTER_DAN ===
 Name: DAN
@@ -1276,11 +1296,25 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Slowpoke
-Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Slowpoke @ Leftovers
+Level: 22
+Ability: Oblivious
+Calm Nature
+- Yawn
+- Amnesia
+- Stored Power
+- Slack Off
+
+Psyduck @ Wise Glasses
+Level: 21
+Ability: Cloud Nine
+Modest Nature
+- Water Pulse
+- Zen Headbutt
+- Icy Wind
+- Thief
 
 === TRAINER_YOUNGSTER_CHAD ===
 Name: CHAD
@@ -1289,15 +1323,25 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Ekans
-Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Cubone @ Thick Club
+Level: 22
+Ability: Battle Armor
+Adamant Nature
+- Stomping Tantrum
+- Fling
+- Headbutt
+- Rock Tomb
 
-Sandshrew
-Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Teddiursa @ Oran Berry
+Level: 22
+Ability: Pickup
+Jolly Nature
+- Covet
+- Slash
+- Low Kick
+- Metal Claw
 
 === TRAINER_YOUNGSTER_TYLER ===
 Name: TYLER
@@ -1319,11 +1363,25 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Ekans
-Level: 21
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Donphan @ Assault Vest
+Level: 26
+Ability: Battle Armor
+Impish Nature
+- Bulldoze
+- Rapid Spin
+- Body Slam
+- Poison Jab
+
+Ariados @ Scope Lens
+Level: 26
+Ability: Sniper
+Adamant Nature
+- Fell Stinger
+- Shadow Sneak
+- Acid Spray
+- Smart Strike
 
 === TRAINER_YOUNGSTER_DILLON ===
 Name: DILLON
@@ -1332,15 +1390,25 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Sandshrew
-Level: 19
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Golbat @ Salac Berry
+Level: 26
+Ability: Inner Focus
+Adamant Nature
+- Poison Fang
+- Leech Life
+- Acrobatics
+- Confuse Ray
 
-Zubat
-Level: 19
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Growlithe @ Rare Bone
+Level: 26
+Ability: Intimidate
+Modest Nature
+- Fire Fang
+- Bite
+- Play Rough
+- Thunder Fang
 
 === TRAINER_YOUNGSTER_YASU ===
 Name: YASU
@@ -1349,19 +1417,25 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Rattata
-Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Tangela @ Eject Pack
+Level: 27
+Ability: Regenerator
+Bold Nature
+- Mega Drain
+- Knock Off
+- Sleep Powder
+- Bind
 
-Rattata
-Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Raticate
-Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Furret @ Berry Juice
+Level: 27
+Ability: Keen Eye
+Adamant Nature
+- Coil
+- Slam
+- Baton Pass
+- Brick Break
 
 === TRAINER_YOUNGSTER_DAVE ===
 Name: DAVE
@@ -1370,15 +1444,25 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Nidoran M
-Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Nidorino @ Berry Juice
+Level: 26
+Ability: Poison Point
+Adamant Nature
+- Double Kick
+- Horn Attack
+- Venoshock
+- Drill Run
 
-Nidorino
-Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Sandslash @ Zoom Lens
+Level: 26
+Ability: Sturdy
+Jolly Nature
+- Bulldoze
+- Fury Swipes
+- Rapid Spin
+- Metal Claw
 
 === TRAINER_YOUNGSTER_BEN_2 ===
 Name: BEN
@@ -1409,7 +1493,7 @@ AI: Check Bad Move
 Beedrill
 Ability: Levitate
 Jolly Nature
-Level: 10
+Level: 8
 - Pin Missile
 - Fury Attack
 - String Shot
@@ -1418,7 +1502,7 @@ Level: 10
 Butterfree
 Ability: Compound Eyes
 Modest Nature
-Level: 10
+Level: 8
 - Gust
 - Stun Spore
 - Poison Powder
@@ -1434,7 +1518,7 @@ Double Battle: No
 AI: Check Bad Move
 
 Volbeat
-Level: 10
+Level: 8
 Ability: Prankster
 Adamant Nature
 - Struggle Bug
@@ -1443,7 +1527,7 @@ Adamant Nature
 - Aerial Ace
 
 Illumise
-Level: 10
+Level: 8
 Ability: Tinted Lens
 Modest Nature
 - Zen Headbutt
@@ -1478,7 +1562,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Beedrill @ Poison Barb
-Level: 14
+Level: 12
 Ability: Levitate
 Jolly Nature
 - Rock Smash
@@ -1487,7 +1571,7 @@ Jolly Nature
 - Pin Missile
 
 Paras @ Focus Sash
-Level: 15
+Level: 13
 Ability: Effect Spore
 Bold Nature
 - Spore
@@ -1505,7 +1589,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Butterfree @ Wide Lens
-Level: 14
+Level: 12
 Ability: Tinted Lens
 Mild Nature
 - Confusion
@@ -1514,7 +1598,7 @@ Mild Nature
 - Electroweb
 
 Vivillon @ Silver Powder
-Level: 14
+Level: 12
 Ability: Compound Eyes
 Modest Nature
 - Draining Kiss
@@ -1532,7 +1616,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Cutiefly @ Oran Berry
-Level: 14
+Level: 12
 Ability: Shield Dust
 Bold Nature
 - Fairy Wind
@@ -1541,7 +1625,7 @@ Bold Nature
 - Fake Tears
 
 Sizzlipede @ Oran Berry
-Level: 14
+Level: 12
 Ability: Flash Fire
 Jolly Nature
 - Bug Bite
@@ -1559,7 +1643,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Beedrill @ Oran Berry
-Level: 16
+Level: 14
 Ability: Levitate
 Hasty Nature
 - Rock Smash
@@ -1568,7 +1652,7 @@ Hasty Nature
 - Toxic
 
 Kakuna @ Black Sludge
-Level: 18
+Level: 16
 Ability: Shed Skin
 Bold Nature
 - Poison Sting
@@ -1586,7 +1670,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Butterfree @ Bright Powder
-Level: 16
+Level: 14
 Ability: Compound Eyes
 Modest Nature
 - Psybeam
@@ -1595,7 +1679,7 @@ Modest Nature
 - Absorb
 
 Paras @ Oran Berry
-Level: 16
+Level: 14
 Ability: Water Absorb
 Bold Nature
 - Stun Spore
@@ -1604,7 +1688,7 @@ Bold Nature
 - Growth
 
 Venonat @ Oran Berry
-Level: 18
+Level: 16
 Ability: Tinted Lens
 Adamant Nature
 - Struggle Bug
@@ -1619,23 +1703,25 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Caterpie
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Pinsir @ Focus Sash
+Level: 20
+Ability: Moxie
+Adamant Nature
+- Rock Smash
+- Rock Tomb
+- Aerial Ace
+- Lunge
 
-Weedle
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Metapod
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Kakuna
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Scyther @ Liechi Berry
+Level: 20
+Ability: Steadfast
+Jolly Nature
+- Wing Attack
+- Double Team
+- Slash
+- Pounce
 
 === TRAINER_BUG_CATCHER_KEIGO ===
 Name: KEIGO
@@ -1644,19 +1730,25 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Weedle
-Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Kricketune @ Muscle Band
+Level: 24
+Ability: Technician
+Jolly Nature
+- Fell Stinger
+- Aerial Ace
+- Swords Dance
+- False Swipe
 
-Caterpie
-Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Weedle
-Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ledian @ Punching Gloves
+Level: 24
+Ability: Iron Fist
+Hardy Nature
+- Mach Punch
+- Fire Punch
+- Thunder Punch
+- Ice Punch
 
 === TRAINER_BUG_CATCHER_ELIJAH ===
 Name: ELIJAH
@@ -1665,11 +1757,25 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Butterfree
-Level: 20
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ninjask @ Focus Sash
+Level: 24
+Ability: Speed Boost
+Hasty Nature
+- Double Team
+- Baton Pass
+- Protect
+- Bug Bite
+
+Shedinja @ Muscle Band
+Level: 24
+Ability: Wonder Guard
+Adamant Nature
+- Shadow Claw
+- Confuse Ray
+- Bug Buzz
+- Aerial Ace
 
 === TRAINER_BUG_CATCHER_2 ===
 Name: PH
@@ -1740,7 +1846,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Pidgey @ Silk Scarf
-Level: 14
+Level: 12
 Ability: Big Pecks
 Naive Nature
 - Aerial Ace
@@ -1749,7 +1855,7 @@ Naive Nature
 - Work Up
 
 Eevee @ Oran Berry
-Level: 14
+Level: 12
 Ability: Adaptability
 Adamant Nature
 - Quick Attack
@@ -1767,7 +1873,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Nidoran-F @ Oran Berry
-Level: 14
+Level: 12
 Ability: Poison Point
 Adamant Nature
 - Poison Sting
@@ -1776,7 +1882,7 @@ Adamant Nature
 - Scratch
 
 Rattata @ Focus Band
-Level: 14
+Level: 12
 Ability: Strong Gnaw
 Modest Nature
 - Bite
@@ -1809,19 +1915,34 @@ Pic: Lass
 Gender: Male
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Paras
-Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ponyta-Galar @ Weakness Policy
+Level: 17
+Ability: Pastel Veil
+Mild Nature
+- Psybeam
+- Stomp
+- Fairy Wind
+- Agility
 
-Paras
-Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Vulpix-Alola @ Berry Juice
+Level: 18
+Ability: Snow Warning
+Modest Nature
+- Ice Shard
+- Icy Wind
+- Confuse Ray
+- Disable
 
-Parasect
-Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Growlithe @ Rare Bone
+Level: 16
+Ability: Intimidate
+Timid Nature
+- Flame Wheel
+- Bite
+- Thunder Fang
+- Charm
 
 === TRAINER_LASS_MIRIAM ===
 Name: MIRIAM
@@ -1833,7 +1954,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Oddish @ Oran Berry
-Level: 18 
+Level: 16
 Ability: Run Away
 Jolly Nature
 - Acid
@@ -1842,7 +1963,7 @@ Jolly Nature
 - Charm
 
 Bellsprout @ Starf Berry
-Level: 18
+Level: 16
 Ability: Gluttony
 Modest Nature
 - Knock Off
@@ -1860,7 +1981,7 @@ Double Battle: Yes
 AI: Basic Trainer
 
 Clefairy @ Berry Juice
-Level: 18
+Level: 16
 Ability: Friend Guard
 Quiet Nature
 - Sweet Kiss
@@ -1869,7 +1990,7 @@ Quiet Nature
 - Gravity
 
 Cleffa @ Eviolite
-Level: 16
+Level: 14
 Ability: Friend Guard
 Quirky Nature
 - Sweet Kiss
@@ -1884,15 +2005,25 @@ Pic: Lass
 Gender: Male
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Nidoran M
-Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Nidorino @ Poison Barb
+Level: 20
+Ability: Poison Point
+Lonely Nature
+- Toxic Spikes
+- Venoshock
+- Dig
+- Facade
 
-Nidoran F
-Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Nidorina @ Black Sludge
+Level: 20
+Ability: Poison Point
+Bold Nature
+- Bite
+- Venoshock
+- Shock Wave
+- Toxic
 
 === TRAINER_LASS_ALI ===
 Name: ALI
@@ -1901,19 +2032,25 @@ Pic: Lass
 Gender: Male
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Pidgey
-Level: 12
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Jigglypuff @ Wide Lens
+Level: 21
+Ability: Cute Charm
+Modest Nature
+- Sweet Kiss
+- Draining Kiss
+- Fake Tears
+- Nasty Plot
 
-Oddish
-Level: 12
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Bellsprout
-Level: 12
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Togetic @ Wise Glasses
+Level: 20
+Ability: Serene Grace
+Mild Nature
+- Ancient Power
+- Fairy Wind
+- Yawn
+- Metronome
 
 === TRAINER_LASS_2 ===
 Name: PH
@@ -1939,19 +2076,34 @@ Pic: Lass
 Gender: Male
 Music: Female
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Oddish
-Level: 13
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Charmeleon @ Charcoal
+Level: 20
+Ability: Flame Body
+Impish Nature
+- Fire Fang
+- Dragon Breath
+- Smokescreen
+- Fire Spin
 
-Pidgey
-Level: 13
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ivysaur @ Miracle Seed
+Level: 20
+Ability: Thick Fat
+Bold Nature
+- Seed Bomb
+- Leech Seed
+- Growl
+- Acid Spray
 
-Oddish
-Level: 13
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Wartortle @ Mystic Water
+Level: 20
+Ability: Storm Drain
+Naive Nature
+- Water Pulse
+- Rapid Spin
+- Bite
+- Icy Wind
 
 === TRAINER_LASS_ANN ===
 Name: ANN
@@ -2284,15 +2436,25 @@ Pic: Camper
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Rattata
-Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Growlithe-Hisui @ Berry Juice
+Level: 18
+Ability: Intimidate
+Naive Nature
+- Flame Wheel
+- Bite
+- Facade
+- Charm
 
-Ekans
-Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Sandshrew-Alola @ Salac Berry
+Level: 18
+Ability: Sturdy
+Bold Nature
+- Metal Claw
+- Ice Ball
+- Bulldoze
+- Low Kick
 
 === TRAINER_CAMPER_ETHAN ===
 Name: ETHAN
@@ -2303,9 +2465,23 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Mankey
-Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Mankey @ Eviolite
+Level: 21
+Ability: Defiant
+Adamant Nature
+- Swagger
+- Cross Chop
+- Low Sweep
+- Bulldoze
+
+Farfetch'd-Galar @ Stick
+Level: 21
+Ability: Scrappy
+Adamant Nature
+- Peck
+- Rock Smash
+- Detect
+- Facade
 
 === TRAINER_CAMPER_RICKY ===
 Name: RICKY
@@ -2314,11 +2490,16 @@ Pic: Camper
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Squirtle
-Level: 20
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Prinplup @ Mirror Herb
+Level: 26
+Ability: Competitive
+Bashful Nature
+- Bubble Beam
+- Metal Claw
+- Icy Wind
+- Disarming Voice
 
 === TRAINER_CAMPER_JEFF ===
 Name: JEFF
@@ -2327,15 +2508,34 @@ Pic: Camper
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Spearow
-Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Toedscool @ Berry Juice
+Level: 24
+Ability: Mycelium Might
+Adamant Nature
+- Screech
+- Mud Shot
+- Stun Spore
+- Hex
 
-Raticate
-Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Meowth @ Razor Claw
+Level: 24
+Ability: Technician
+Jolly Nature
+- Fake Out
+- Slash
+- Shadow Claw
+- Metal Claw
+
+Ponyta @ Binding Band
+Level: 24
+Ability: Flame Body
+Timid Nature
+- Flame Charge
+- Hypnosis
+- Bounce
+- Fire Spin
 
 === TRAINER_CAMPER_2 ===
 Name: PH
@@ -2399,11 +2599,34 @@ Pic: Picnicker
 Gender: Male
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: Smart Trainer
 
-Goldeen
-Level: 19
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Piplup @ Eviolite
+Level: 25
+Ability: Competitive
+Bold Nature
+- Bubble Beam
+- Charm
+- Disarming Voice
+- Icy Wind
+
+Buizel @ Silk Scarf
+Level: 24
+Ability: Water Veil
+Naive Nature
+- Quick Attack
+- Aqua Jet
+- Bite
+- Soak
+
+Chinchou @ Wise Glasses
+Level: 25
+Ability: Volt Absorb
+Modest Nature
+- Spark
+- Charge
+- Thunder Wave
+- Water Pulse
 
 === TRAINER_PICNICKER_NANCY ===
 Name: NANCY
@@ -2412,15 +2635,25 @@ Pic: Picnicker
 Gender: Male
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Rattata
-Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Pikachu @ Air Balloon
+Level: 24
+Ability: Lightning Rod
+Naive Nature
+- Spark
+- Iron Tail
+- Brick Break
+- Draining Kiss
 
-Pikachu
-Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Diggersby @ Power Herb
+Level: 24
+Ability: Huge Power
+Adamant Nature
+- Dig
+- Bounce
+- Headbutt
+- Rock Smash
 
 === TRAINER_PICNICKER_ISABELLE ===
 Name: ISABELLE
@@ -2429,19 +2662,34 @@ Pic: Picnicker
 Gender: Male
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Pidgey
-Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Psyduck @ Berry Juice
+Level: 24
+Ability: Damp
+Modest Nature
+- Zen Headbutt
+- Water Pulse
+- Disable
+- Thief
 
-Pidgey
-Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Eevee @ Eviolite
+Level: 24
+Ability: Adaptability
+Adamant Nature
+- Quick Attack
+- Swift
+- Charm
+- Sand Attack
 
-Pidgey
-Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Cubone @ Thick Club
+Level: 24
+Ability: Battle Armor
+Impish Nature
+- Bone Rush
+- Retaliate
+- Rock Tomb
+- Low Kick
 
 === TRAINER_PICNICKER_KELSEY ===
 Name: KELSEY
@@ -2450,15 +2698,25 @@ Pic: Picnicker
 Gender: Male
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Nidoran M
-Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Krabby @ Berry Juice
+Level: 21
+Ability: Shell Armor
+Bold Nature
+- Metal Claw
+- Bubble Beam
+- Stomp
+- Harden
 
-Nidoran F
-Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Horsea @ Mystic Water
+Level: 22
+Ability: Sniper
+Modest Nature
+- Dragon Breath
+- Bubble Beam
+- Icy Wind
+- Smokescreen
 
 === TRAINER_PICNICKER_ALICIA ===
 Name: ALICIA
@@ -2749,7 +3007,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Yamper @ Oran Berry
-Level: 16
+Level: 14
 Ability: Ball Fetch
 Hasty Nature
 - Bite
@@ -2758,7 +3016,7 @@ Hasty Nature
 - Thunder Wave
 
 Voltorb-Hisui @ Salac Berry
-Level: 15
+Level: 13
 Ability: Aftermath
 Naive Nature
 - Charge Beam
@@ -2776,7 +3034,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Koffing @ Oran Berry
-Level: 18
+Level: 16
 Ability: Neutralizing Gas
 Bold Nature
 - Poison Gas
@@ -2785,7 +3043,7 @@ Bold Nature
 - Assurance
 
 Sneasel-Hisui @ Assault Vest
-Level: 18
+Level: 16
 Ability: Inner Focus
 Adamant Nature
 - Rock Smash
@@ -2794,7 +3052,7 @@ Adamant Nature
 - Metal Claw
 
 Magnemite @ Oran Berry
-Level: 18
+Level: 16
 Ability: Levitate
 Modest Nature
 - Spark
@@ -3030,7 +3288,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Drilbur @ Oran Berry
-Level: 18
+Level: 16
 Ability: Mold Breaker
 Jolly Nature
 - Metal Claw
@@ -3039,7 +3297,7 @@ Jolly Nature
 - Rapid Spin
 
 Meowth-Galar @ Salac Berry
-Level: 18
+Level: 16
 Ability: Tough Claws
 Adamant Nature
 - Metal Claw
@@ -3048,7 +3306,7 @@ Adamant Nature
 - Swagger
 
 Onix @ Starf Berry
-Level: 18
+Level: 16
 Ability: Sturdy
 Naive Nature
 - Rock Throw
@@ -3063,15 +3321,25 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Machop
-Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Timburr @ Muscle Band
+Level: 20
+Ability: Guts
+Adamant Nature
+- Low Kick
+- Bulk Up
+- Focus Energy
+- Rock Throw
 
-Geodude
-Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Cranidos @ Berry Juice
+Level: 20
+Ability: Mold Breaker
+Jolly Nature
+- Rock Smash
+- Bulldoze
+- Focus Energy
+- Headbutt
 
 === TRAINER_HIKER_NOB ===
 Name: NOB
@@ -3080,23 +3348,34 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Geodude
-Level: 13
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Geodude @ Salac Berry
+Level: 20
+Ability: Sturdy
+Adamant Nature
+- Bulldoze
+- Rollout
+- Rock Polish
+- Defense Curl
 
-Geodude
-Level: 13
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Bonsly @ Focus Band
+Level: 20
+Ability: Sturdy
+Bold Nature
+- Flail
+- Counter
+- Mud Slap
+- Low Kick
 
-Machop
-Level: 13
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Geodude
-Level: 13
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Tyrogue @ Eviolite
+Level: 20
+Ability: Guts
+Jolly Nature
+- Fake Out
+- Vacuum Wave
+- Low Sweep
+- Facade
 
 === TRAINER_HIKER_WAYNE ===
 Name: WAYNE
@@ -3105,11 +3384,16 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Onix
-Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Onix @ Eviolite
+Level: 22
+Ability: Sturdy
+Bold Nature
+- Rock Throw
+- Curse
+- Harden
+- Screech
 
 === TRAINER_HIKER_ALAN ===
 Name: ALAN
@@ -3962,11 +4246,25 @@ Pic: Engineer
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Magnemite
-Level: 21
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Boltund @ Berry Juice
+Level: 27
+Ability: Strong Jaw
+Timid Nature
+- Thunder Fang
+- Fire Fang
+- Bite
+- Charm
+
+Pawmo @ Muscle Band
+Level: 27
+Ability: Iron Fist
+Adamant Nature
+- Arm Thrust
+- Dig
+- Spark
+- Metal Claw
 
 === TRAINER_ENGINEER_BERNIE ===
 Name: BERNIE
@@ -3975,19 +4273,25 @@ Pic: Engineer
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Magnemite
-Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Flaaffy @ Berry Juice
+Level: 26
+Ability: Static
+Modest Nature
+- Ice Punch
+- Thunder Punch
+- Confuse Ray
+- Fire Punch
 
-Magnemite
-Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Magneton
-Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Magnemite @ Magnet
+Level: 26
+Ability: Sturdy
+Hardy Nature
+- Spark
+- Flash Cannon
+- Thunder Wave
+- Screech
 
 === TRAINER_FISHERMAN_DALE ===
 Name: DALE
@@ -4223,15 +4527,34 @@ Pic: Swimmer M
 Gender: Male
 Music: Swimmer
 Double Battle: No
-AI: Check Bad Move
+AI: Smart Trainer
 
-Horsea
-Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Shellder @ Life Orb
+Level: 24
+Ability: Skill Link
+Modest Nature
+- Icicle Spear
+- Rock Blast
+- Water Pulse
+- Protect
 
-Shellder
-Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Goldeen @ Leftovers
+Level: 24
+Ability: Lightning Rod
+Mild Nature
+- Water Pulse
+- Horn Attack
+- Aqua Ring
+- Icy Wind
+
+Staryu @ Bright Powder
+Level: 24
+Ability: Illuminate
+Naive Nature
+- Bubble Beam
+- Aqua Jet
+- Confuse Ray
+- Psybeam
 
 === TRAINER_SWIMMER_MALE_RICHARD ===
 Name: RICHARD
@@ -4675,15 +4998,13 @@ Pic: Gamer
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Poliwag
-Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Horsea
-Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Diglett @ Focus Sash
+Level: 30
+Ability: Arena Trap
+Jolly Nature
+- Fissure
 
 === TRAINER_GAMER_JASPER ===
 Name: JASPER
@@ -4692,15 +5013,25 @@ Pic: Gamer
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Bellsprout
-Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Dipplin @ Loaded Dice
+Level: 25
+Ability: Sticky Hold
+Modest Nature
+- Bullet Seed
+- Dragon Breath
+- Astonish
+- Withdraw
 
-Oddish
-Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Trumbeak @ Kings Rock
+Level: 26
+Ability: Skill Link
+Naive Nature
+- Bullet Seed
+- Rock Blast
+- Fury Attack
+- Pluck
 
 === TRAINER_GAMER_DIRK ===
 Name: DIRK
@@ -4709,15 +5040,13 @@ Pic: Gamer
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Voltorb
-Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Magnemite
-Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Spheal @ Snowball
+Level: 30
+Ability: Thick Fat
+Jolly Nature
+- Sheer Cold
 
 === TRAINER_GAMER_DARIAN ===
 Name: DARIAN
@@ -4726,15 +5055,13 @@ Pic: Gamer
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Growlithe
-Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Vulpix
-Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Krabby @ Focus Band
+Level: 30
+Ability: Shell Armor
+Bold Nature
+- Guillotine
 
 === TRAINER_GAMER_STAN ===
 Name: STAN
@@ -6095,35 +6422,52 @@ Pic: Rival Early
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
+AI: Basic Trainer
 
-Pidgeotto
-Level: 17
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-- Tackle
-- Sand Attack
-- Gust
+Dratini @ Flame Orb
+Level: 22
+Ability: Marvel Scale
+Modest Nature
+- Thunder Wave
+- Dragon Tail
+- Breaking Swipe
+- Aqua Tail
+
+Kadabra @ Toxic Orb
+Level: 20
+Ability: Magic Guard
+Timid Nature
+- Confusion
+- Shadow Ball
+- Reflect
+- Recover
+
+Raticate @ Berry Juice
+Level: 21
+Ability: Strong Gnaw
+Adamant Nature
+- Bite
+- Hyper Fang
+- Laser Focus
+- Sucker Punch
+
+Quilava @ Expert Belt
+Level: 20
+Ability: Flash Fire
+Naive Nature
+- Flame Wheel
 - Quick Attack
+- Zen Headbutt
+- Dig
 
-Abra
-Level: 16
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-- Teleport
-
-Rattata
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-- Tackle
-- Tail Whip
-- Quick Attack
-
-Squirtle
-Level: 18
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Tail Whip
-- Withdraw
-- Water Gun
+Wartortle @ Leftovers
+Level: 22
+Ability: Shell Armor
+Modest Nature
+- Bite
+- Water Pulse
+- Icy Wind
+- Rapid Spin
 
 === TRAINER_RIVAL_CERULEAN_BULBASAUR ===
 Name: TERRY
@@ -6132,35 +6476,52 @@ Pic: Rival Early
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
+AI: Basic Trainer
 
-Pidgeotto
-Level: 17
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-- Tackle
-- Sand Attack
-- Gust
-- Quick Attack
+Dratini @ Flame Orb
+Level: 22
+Ability: Marvel Scale
+Modest Nature
+- Thunder Wave
+- Dragon Tail
+- Breaking Swipe
+- Aqua Tail
 
-Abra
-Level: 16
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-- Teleport
+Kadabra @ Toxic Orb
+Level: 20
+Ability: Magic Guard
+Timid Nature
+- Confusion
+- Shadow Ball
+- Reflect
+- Recover
 
-Rattata
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-- Tackle
-- Tail Whip
-- Quick Attack
+Raticate @ Berry Juice
+Level: 21
+Ability: Strong Gnaw
+Adamant Nature
+- Bite
+- Hyper Fang
+- Laser Focus
+- Sucker Punch
 
-Bulbasaur
-Level: 18
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Sleep Powder
-- Poison Powder
-- Vine Whip
+Croconaw @ Life Orb
+Level: 20
+Ability: Sheer Force
+Hasty Nature
+- Bite
+- Slash
+- Breaking Swipe
+- Aqua Jet
+
+Ivysaur @ Leftovers
+Level: 22
+Ability: Thick Fat
+Modest Nature
 - Leech Seed
+- Toxic
+- Seed Bomb
+- Acid Spray
 
 === TRAINER_RIVAL_CERULEAN_CHARMANDER ===
 Name: TERRY
@@ -6169,35 +6530,52 @@ Pic: Rival Early
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
+AI: Basic Trainer
 
-Pidgeotto
-Level: 17
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-- Tackle
-- Sand Attack
-- Gust
-- Quick Attack
+Dratini @ Flame Orb
+Level: 22
+Ability: Marvel Scale
+Modest Nature
+- Thunder Wave
+- Dragon Tail
+- Breaking Swipe
+- Aqua Tail
 
-Abra
-Level: 16
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-- Teleport
+Kadabra @ Toxic Orb
+Level: 20
+Ability: Magic Guard
+Timid Nature
+- Confusion
+- Shadow Ball
+- Reflect
+- Recover
 
-Rattata
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-- Tackle
-- Tail Whip
-- Quick Attack
+Raticate @ Berry Juice
+Level: 21
+Ability: Strong Gnaw
+Adamant Nature
+- Bite
+- Hyper Fang
+- Laser Focus
+- Sucker Punch
 
-Charmander
-Level: 18
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Metal Claw
-- Ember
-- Growl
-- Scratch
+Bayleef @ Leftovers
+Level: 20
+Ability: Overgrow
+Modest Nature
+- Disarming Voice
+- Charm
+- Leech Seed
+- Giga Drain
+
+Charmeleon @ Flame Orb
+Level: 22
+Ability: Flame Body
+Timid Nature
+- Dragon Breath
+- Fire Fang
+- Fling
+- Thunder Punch
 
 === TRAINER_SCIENTIST_TED ===
 Name: TED
@@ -6679,7 +7057,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Snubbull @ Berry Juice
-Level: 20
+Level: 18
 Ability: Intimidate
 Adamant Nature
 - Headbutt
@@ -6688,7 +7066,7 @@ Adamant Nature
 - Roar
 
 Impidimp @ Black Glasses
-Level: 20
+Level: 18
 Ability: Prankster
 Modest Nature
 - Fake Tears
@@ -6697,7 +7075,7 @@ Modest Nature
 - Draining Kiss
 
 Slowpoke-Galar @ Berserk Gene
-Level: 20
+Level: 18
 Ability: Own Tempo
 Adamant Nature
 - Yawn
@@ -6715,7 +7093,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Ekans @ Salac Berry
-Level: 20
+Level: 18
 Ability: Intimidate
 Adamant Nature
 - Acid
@@ -6724,7 +7102,7 @@ Adamant Nature
 - Belch
 
 Nidorino @ Black Sludge
-Level: 20
+Level: 18
 Ability: Moxie
 Adamant Nature
 - Double Kick
@@ -6733,7 +7111,7 @@ Adamant Nature
 - Venoshock
 
 Doduo @ Berserk Gene
-Level: 20
+Level: 18
 Ability: Tangled Feet
 Jolly Nature
 - Pluck
@@ -6751,7 +7129,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Meowth-Alola @ Wise Glasses
-Level: 20
+Level: 18
 Ability: Technician
 Mild Nature
 - Fake Out
@@ -6760,7 +7138,7 @@ Mild Nature
 - Chilling Water
 
 Zubat @ Berry Juice
-Level: 20
+Level: 18
 Ability: Infiltrator
 Jolly Nature
 - Confuse Ray
@@ -6769,7 +7147,7 @@ Jolly Nature
 - Assurance
 
 Geodude-Alola @ Focus Sash
-Level: 20
+Level: 18
 Ability: Galvanize
 Modest Nature
 - Tackle
@@ -6778,38 +7156,76 @@ Modest Nature
 - Self-Destruct
 
 === TRAINER_TEAM_ROCKET_GRUNT_5 ===
-Name: GRUNT
+Name: SLIM
 Class: Team Rocket
 Pic: Rocket Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Machop
-Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Machop @ Flame Orb
+Level: 24
+Ability: Guts
+Adamant Nature
+- Detect
+- Bullet Punch
+- Power-Up Punch
+- Bulk Up
 
-Drowzee
-Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Drowzee @ Eviolite
+Level: 25
+Ability: Inner Focus
+Bold Nature
+- Swagger
+- Psybeam
+- Psych Up
+- Headbutt
+
+Smeargle @ Berserk Gene
+Level: 24
+Ability: Own Tempo
+Adamant Nature
+- Head Smash
+- Howl
+- Head Charge
+- Gunk Shot
 
 === TRAINER_TEAM_ROCKET_GRUNT_6 ===
-Name: GRUNT
+Name: HOPPER
 Class: Team Rocket
 Pic: Rocket Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Ekans
-Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Golbat @ Scope Lens
+Level: 22
+Ability: Inner Focus
+Jolly Nature
+- Poison Fang
+- Quick Guard
+- Air Cutter
+- Hypnosis
 
-Zubat
-Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Arbok @ Sitrus Berry
+Level: 22
+Ability: Intimidate
+Adamant Nature
+- Glare
+- Bulldoze
+- Poison Jab
+- Leech Life
+
+Flamigo @ Berserk Gene
+Level: 22
+Ability: Tangled Feet
+Naughty Nature
+- Double Kick
+- Wing Attack
+- Pounce
+- Detect
 
 === TRAINER_TEAM_ROCKET_GRUNT_7 ===
 Name: GRUNT
@@ -8703,7 +9119,7 @@ Naive Nature
 - Dig
 - Rock Tomb
 
-Dwebble @ Muscle Band
+Dwebble @ Oran Berry
 Level: 14
 Ability: Shell Armor
 Adamant Nature
@@ -8721,31 +9137,77 @@ Jolly Nature
 - Screech
 - Sand Tomb
 
+Croagunk @ Eviolite
+Ability: Dry Skin
+Level: 14
+Naive Nature
+- Poison Sting
+- Mud Slap
+- Fake Out
+- Vacuum Wave
+
 === TRAINER_LEADER_MISTY ===
 Name: MISTY
 Class: Leader
 Pic: Leader Misty
 Gender: Male
 Music: Female
-Items: Super Potion
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
+AI: Smart Trainer
 
-Staryu
-Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Tackle
-- Harden
-- Recover
+Floatzel @ Wacan Berry
+Level: 26
+Ability: Swift Swim
+Timid Nature
+- Aqua Jet
+- Flip Turn
+- Bite
+- Fake Out
+
+Gyarados @ Oran Berry
+Level: 25
+Ability: Intimidate
+Naive Nature
+- Bite
+- Ice Fang
+- Twister
+- Chilling Water
+
+Poliwhirl @ Eviolite
+Level: 26
+Ability: Swift Swim
+Mild Nature
+- Bubble Beam
+- Rain Dance
+- Earth Power
+- Body Slam
+
+Azumarill @ Expert Belt
+Level: 26
+Ability: Sap Sipper
+Sassy Nature
+- Aqua Tail
+- Play Rough
+- Bounce
+- Trailblaze
+
+Clauncher @ Wise Glasses
+Level: 26
+Ability: Mega Launcher
+Serious Nature
+- Aura Sphere
+- Dragon Pulse
+- Dark Pulse
 - Water Pulse
 
-Starmie
-Level: 21
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Swift
-- Recover
-- Rapid Spin
-- Water Pulse
+Starmie @ Berry Juice
+Level: 27
+Ability: Natural Cure
+Hardy Nature
+- Bubble Beam
+- Aqua Jet
+- Zen Headbutt
+- Dazzling Gleam
 
 === TRAINER_LEADER_LT_SURGE ===
 Name: LT. SURGE
@@ -10108,15 +10570,25 @@ Pic: Camper
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Rattata
-Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Diglett @ Berry Juice
+Level: 22
+Ability: Arena Trap
+Jolly Nature
+- Mud Slap
+- Bulldoze
+- Slash
+- Rock Tomb
 
-Ekans
-Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Diglett-Alola @ Muscle Band
+Level: 22
+Ability: Tangling Hair
+Naughty Nature
+- Metal Claw
+- Mud Slap
+- Bulldoze
+- Shadow Claw
 
 === TRAINER_PICNICKER_MISSY ===
 Name: MISSY
@@ -11178,7 +11650,7 @@ Bold Nature
 - Swift
 
 Kricketune
-Level: 10
+Level: 8
 Ability: Technician
 Jolly Nature
 - Fell Stinger
